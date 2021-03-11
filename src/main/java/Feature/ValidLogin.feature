@@ -1,5 +1,5 @@
 Feature: Login Action
-@SIT
+@SIT @Test
 Scenario Outline: Login should be successful with Valid Credentials
 
 Given I launch the application 
